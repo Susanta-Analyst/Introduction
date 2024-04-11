@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Susanta-Analyst
 - 👀 I’m interested in playing with Data and bring out compelling and meaningful solutions
-- 🌱 I’m currently learning skills on SQL, EXcel, Tableau, Power BI and Python
+- 🌱 I’m currently learning skills on SQL, Excel, Tableau, Power BI and Python
 - 💞️ I’m looking to collaborate on projects pertaining to Data Analysis and work with team towards succesful completion of assigned tasks
 - 📫 How to reach me is something very easy as I am available on 07774916185 else sushant.zest@gmail.com
 - 😄 Pronouns: He/Him/His
