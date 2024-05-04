@@ -7,3 +7,9 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact:Taking a break from work and visiting sea shores at times for fun
 
+### My tools for Data Manipulation:
+
+| Conda | Jupyter | MySQL | SQLServer | Power BI | Tableau | 
+|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a" title="pg" alt="pg" width="55" height="55"/>|
+
